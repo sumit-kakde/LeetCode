@@ -7,6 +7,7 @@ DSA
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,8 @@ DSA
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
