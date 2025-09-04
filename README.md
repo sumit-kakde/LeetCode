@@ -6,6 +6,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
@@ -28,5 +29,10 @@ DSA
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
