@@ -7,6 +7,7 @@ DSA
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -20,4 +21,12 @@ DSA
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
