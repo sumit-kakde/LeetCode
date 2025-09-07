@@ -7,6 +7,7 @@ DSA
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
@@ -59,4 +60,5 @@ DSA
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
