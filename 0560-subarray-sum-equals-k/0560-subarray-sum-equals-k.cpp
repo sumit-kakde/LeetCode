@@ -11,7 +11,7 @@ public:
             int remove = presum-k;
             cnt += mpp[remove];
             mpp[presum] += 1;
-
+   
         }
         return cnt;
     }
