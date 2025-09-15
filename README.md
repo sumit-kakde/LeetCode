@@ -76,4 +76,8 @@ DSA
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
