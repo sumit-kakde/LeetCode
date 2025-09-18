@@ -13,6 +13,7 @@ DSA
 | [0073-set-matrix-zeroes](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
@@ -28,6 +29,7 @@ DSA
 | [0053-maximum-subarray](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
