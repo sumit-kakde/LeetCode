@@ -20,6 +20,7 @@ DSA
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
