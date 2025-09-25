@@ -19,6 +19,7 @@ DSA
 | [0303-range-sum-query-immutable](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -52,6 +53,7 @@ DSA
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +65,7 @@ DSA
 | [0015-3sum](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
