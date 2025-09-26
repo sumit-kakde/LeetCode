@@ -79,6 +79,7 @@ DSA
 | [0015-3sum](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [0908-middle-of-the-linked-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -93,6 +94,7 @@ DSA
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
