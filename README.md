@@ -56,6 +56,7 @@ DSA
 | [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,4 +101,8 @@ DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1920-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
