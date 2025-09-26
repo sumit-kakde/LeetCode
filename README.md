@@ -21,6 +21,7 @@ DSA
 | [0560-subarray-sum-equals-k](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
@@ -54,6 +55,7 @@ DSA
 | ------- |
 | [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +86,7 @@ DSA
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Linked List
 |  |
 | ------- |
