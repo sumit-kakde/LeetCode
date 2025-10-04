@@ -15,6 +15,7 @@ DSA
 | [0119-pascals-triangle-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
@@ -38,6 +39,7 @@ DSA
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
