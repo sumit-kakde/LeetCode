@@ -50,6 +50,7 @@ DSA
 | [0141-linked-list-cycle](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -62,6 +63,7 @@ DSA
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -93,6 +95,7 @@ DSA
 | [0142-linked-list-cycle-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0908-middle-of-the-linked-list) |
