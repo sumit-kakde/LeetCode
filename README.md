@@ -32,6 +32,7 @@ DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0119-pascals-triangle-ii) |
@@ -87,6 +88,7 @@ DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -145,6 +147,7 @@ DSA
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Stack
 |  |
