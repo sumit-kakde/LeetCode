@@ -67,6 +67,7 @@ DSA
 | [0202-happy-number](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1903-largest-odd-number-in-string](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Prefix Sum
 |  |
@@ -111,6 +112,7 @@ DSA
 | ------- |
 | [0455-assign-cookies](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0455-assign-cookies) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1903-largest-odd-number-in-string](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [1903-largest-odd-number-in-string](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sumit-kakde/LeetCodeProblems/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Stack
 |  |
